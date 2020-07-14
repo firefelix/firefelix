@@ -10,19 +10,21 @@
 </p>
 
 <p align="center">
-
 🔭 I’m currently working on graduating university, <a href="https://www.brockai.ca/">BrockAI</a>, and the <a href="https://www.reddit.com/r/brocku/">Brock Subreddit</a>.
+</p>
 
-
+<p align="center">
 🌱 I’m currently learning React, Software Engineering, Economic Analysis and 日本人 (Japanese)
+</p>
 
-
+<p align="center">
 💬 Ask me about Economics, NodeJS, C#, Java, Software Performance/Systems Analysis and NBA Basketball
+</p>
 
-
+<p align="center">
 📫 How to reach me: LinkedIn, or my email which is on my resume and personal page
+</p>
 
-
+<p align="center">
 🥽 Also if you ever have any advice about attending graduate school or applying for internships, please reach out to me! 
-
 </p>
