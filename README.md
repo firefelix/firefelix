@@ -9,7 +9,7 @@
   <a href="https://www.cosc.brocku.ca/~ds16bz/resume/Dylan_Souvage_Resume.pdf">Resume</a>
 </p>
 
-🔭 I’m currently working on graduating university, <a href="https://www.brockai.ca/">BrockAI</a>, <a href="https://www.brockcsc.ca/">BrockCSC</a>, and the <a href="https://www.reddit.com/r/brocku/">Brock Subreddit</a>.
+🔭 I’m currently working on graduating university, <a href="https://www.brockai.ca/">BrockAI</a>, and the <a href="https://www.reddit.com/r/brocku/">Brock Subreddit</a>.
 
 
 🌱 I’m currently learning React, Software Engineering, Economic Analysis and 日本人 (Japanese)
