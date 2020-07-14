@@ -21,4 +21,4 @@
 📫 How to reach me: LinkedIn, or my email which is on my resume and personal page
 
 
-Also if you ever have any advice about attending graduate school or applying for internships, please reach out to me! 
+🥽 Also if you ever have any advice about attending graduate school or applying for internships, please reach out to me! 
