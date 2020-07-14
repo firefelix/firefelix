@@ -9,6 +9,8 @@
   <a href="https://www.cosc.brocku.ca/~ds16bz/resume/Dylan_Souvage_Resume.pdf">Resume</a>
 </p>
 
+<p align="center">
+
 🔭 I’m currently working on graduating university, <a href="https://www.brockai.ca/">BrockAI</a>, and the <a href="https://www.reddit.com/r/brocku/">Brock Subreddit</a>.
 
 
@@ -22,3 +24,5 @@
 
 
 🥽 Also if you ever have any advice about attending graduate school or applying for internships, please reach out to me! 
+
+</p>
