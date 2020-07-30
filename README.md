@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="Site logo" src="https://i.imgur.com/lkvVlyp.jpg" width="500" />
+    <img alt="Site logo" src="https://i.imgur.com/JFEoVqU.gif" />
 </p>
 
 <h3 align="center">Hey, my name's Dylan, welcome to my GitHub👋 </h3>
