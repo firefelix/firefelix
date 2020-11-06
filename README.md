@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-🌱 I’m currently learning React, Software Engineering, Economic Analysis and 日本人 (Japanese)
+🌱 I’m currently learning Software Engineering, Computer Science and Economic Analysis
 </p>
 
 <p align="center">
