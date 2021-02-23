@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-🔭 I’m currently working on graduating university, <a href="https://www.brockai.ca/">BrockAI</a>, and the <a href="https://www.reddit.com/r/brocku/">Brock Subreddit</a>.
+🔭 I’m currently working on graduating university, <a href="https://www.brockai.ca/">BrockAI</a>, and the <a href="https://www.reddit.com/r/brocku/">Brock Subreddit</a>. 
 </p>
 
 <p align="center">
@@ -27,4 +27,8 @@
 
 <p align="center">
 🥽 Also if you ever have any advice about attending graduate school or applying for internships, please reach out to me! 
+</p>
+
+<p align="center">
+✍️ Check out my medium articles! https://dsouvage.medium.com/    
 </p>
